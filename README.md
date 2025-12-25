@@ -40,7 +40,7 @@ On-device machine learning • AR visualization • Professional data capture
 |------|-------------|----------|
 | **Panel Mode** | Focus on panel label detection only | Quick panel identification |
 | **Full Mode** | Detects panels + all breakers | Complete inventory capture |
-| **AR Mode** | Augmented reality overlay | Hands-free inspection |
+| **AR Mode** | Augmented reality overlay (In Dev) | Hands-free inspection(In Dev) |
 
 ### Detection Intelligence
 
@@ -212,28 +212,6 @@ OR enter your API key in app Settings → AI Assistant.
 | **OCR not working** | Ensure good lighting, hold device steady |
 | **Duplicate detections** | Increase cooldown frames in Settings |
 
----
-
-## Documentation
-
-Detailed documentation available in `_docs/`:
-
-- **BUILD_NOTES.md** — Deployment and provisioning guide
-- **IMPLEMENTATION_SUMMARY.md** — Feature status and roadmap
-- **TEST_PLAN.md** — QA checklist and test cases
-
----
-
-## Roadmap
-
-- [ ] iPad optimization with multi-column layout
-- [ ] Offline mode with local ML caching
-- [ ] Export to Excel with formatting
-- [ ] Cloud backup management dashboard
-- [ ] Multi-language OCR support
-- [ ] Advanced AR measurement tools
-
----
 
 ## License
 
