@@ -1,0 +1,12 @@
+{
+  "panelThreshold": 0.3,
+  "breakerThreshold": 0.4,
+  "textROIThreshold": 0.35,
+  "panelLabelThreshold": 0.4,
+  "ocrThreshold": 0.7,
+  "dwellFrames": 5,
+  "iouTrackThreshold": 0.5,
+  "cooldownFrames": 30,
+  "maxFPS": 10
+}
+
